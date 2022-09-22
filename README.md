@@ -7,6 +7,7 @@
 🏫 I earned a bachelor' degree in Computer Science from the University of Zimbabwe
 <br>
 👨🏾‍💻 I'm currently using: Swift, Spring Boot/Java
+<br>
 📚 I'm currently upskilling: Flutter, NodeJS, GoLang, Rust, Docker, SIP, WebRTC.
 <br>
 
