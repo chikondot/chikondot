@@ -13,7 +13,7 @@
 
 
 ### Connect with me:
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][mail]
+[<img src="https://img.icons8.com/fluent/48/000000/outlook.png"/>][mail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
 
@@ -23,4 +23,4 @@
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 
 [linkedin]: https://www.linkedin.com/in/chikondot/
-[mail]: tychi96@outlook.com
+[mail]: mailto:tychi96@outlook.com
