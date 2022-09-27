@@ -13,7 +13,7 @@
 
 
 ### Connect with me:
-[<img src="https://img.icons8.com/fluent/48/000000/external-Outlook-logos-and-brands-those-icons-lineal-those-icons.png"/>][mail]
+[<img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/>][mail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
 
