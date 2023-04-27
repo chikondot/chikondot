@@ -33,4 +33,4 @@ Working at [Discovery](https://www.discovery.co.za) as an iOS developer🍎
 [linkedin]: https://www.linkedin.com/in/chikondot/
 [outlook]: mailto:tychi96@outlook.com
 [gmail]: mailto:tychi96@gmail.com
-[resume]: mailto:tychi96@outlook.com
+[resume]: https://github.com/chikondot/chikondot/blob/main/chikondot.resume.pdf
