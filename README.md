@@ -2,7 +2,7 @@
 
 
 ### Mobile and Enterprise Architect enthusiast.
-👔  Currently employeed by [Entelect](https://culture.entelect.co.za) as an Intermediate Software Engineer.
+👔  Currently employeed by [Entelect](https://culture.entelect.co.za) as Senior Software Engineer.
 Working at [Discovery](https://www.discovery.co.za) as an iOS developer🍎
 <br>
 🏫 I earned a Honor's degree in Computer Science from the University of Zimbabwe
